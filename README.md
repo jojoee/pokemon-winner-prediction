@@ -1,10 +1,10 @@
 # Pokemon Winner Prediction
 
-Based on [Pokemon- Weedle's Cave | Kaggle](https://www.kaggle.com/terminus7/pokemon-challenge)
+Based on [Pokemon- Weedle's Cave | Kaggle](https://www.kaggle.com/terminus7/pokemon-challenge), [result](https://github.com/jojoee/pokemon-winner-prediction/blob/master/pokemon-winner-prediction.ipynb)
 
 ## Getting started
 
-1. Install Python3
+1. Install `Python3`
 2. Install dependencies and `jupyter`
 
 ## TODO / Future improvement
@@ -17,6 +17,8 @@ Based on [Pokemon- Weedle's Cave | Kaggle](https://www.kaggle.com/terminus7/poke
   - [ ] Try other interpolation methods
   - [ ] Try to normalize data before create model
   - [ ] Try other feature extractions e.g. type-advantage, type1, type2
+  - [ ] Try remove Pokemon that have low number of fights
+  - [ ] Using "diff" stat instead of raw stat, check https://www.kaggle.com/vforvince1/visualizing-data-and-predicting-pokemon-fights
 - Model
   - [ ] Deep learning approach
   - [ ] XGBClassifier
