@@ -13,15 +13,15 @@ Based on [Pokemon- Weedle's Cave | Kaggle](https://www.kaggle.com/terminus7/poke
 - [ ] Fix warnings
 - [ ] Check more about model evaluation
 - Data preparation
---- [ ] Try remove row that contain `NaN` instead of filling it
---- [ ] Try other interpolation methods
---- [ ] Try to normalize data before create model
---- [ ] Try other feature extractions e.g. type-advantage, type1, type2
+  - [ ] Try remove row that contain `NaN` instead of filling it
+  - [ ] Try other interpolation methods
+  - [ ] Try to normalize data before create model
+  - [ ] Try other feature extractions e.g. type-advantage, type1, type2
 - Model
---- [ ] Deep learning approach
---- [ ] XGBClassifier
---- [ ] Others e.g. GradientBoostingClassifier, svm
---- [ ] Hyper parameters e.g. distance method, measure method in kNN
+  - [ ] Deep learning approach
+  - [ ] XGBClassifier
+  - [ ] Others e.g. GradientBoostingClassifier, svm
+  - [ ] Hyper parameters e.g. distance method, measure method in kNN
 - [ ] Demo page
 - [ ] Add Pokemon image to demo page
 
